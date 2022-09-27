@@ -2,6 +2,7 @@
 
 <h1>TextFormField</h1>
 
-<h4>CReate custom textformfiel to enter your detils</h4>
+<h4>Create custom textformfiel to enter your detils</h4>
+
 
 
